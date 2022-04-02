@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r u+x /tmp/h$
+chmod -R o+x /tmp/h$
